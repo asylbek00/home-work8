@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1c341041.css","mappings":"AAAA,EACE,QAAS,CACT,SACF,CACA,MACE,qDACF,CCNA,KACE,iBACF","sources":["index.css","App.css"],"sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n}\n.body{\n  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n}",".App {\n  text-align: center;\n}\n\n"],"names":[],"sourceRoot":""}
